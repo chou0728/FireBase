@@ -1,0 +1,32 @@
+[debug] [2018-08-03T17:33:30.333Z] ----------------------------------------------------------------------
+[debug] [2018-08-03T17:33:30.335Z] Command:       /usr/local/Cellar/node/9.6.1/bin/node /usr/local/bin/firebase serve
+[debug] [2018-08-03T17:33:30.335Z] CLI Version:   4.0.2
+[debug] [2018-08-03T17:33:30.335Z] Platform:      darwin
+[debug] [2018-08-03T17:33:30.335Z] Node Version:  v9.6.1
+[debug] [2018-08-03T17:33:30.336Z] Time:          Sat Aug 04 2018 01:33:30 GMT+0800 (CST)
+[debug] [2018-08-03T17:33:30.336Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-08-03T17:33:30.344Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-08-03T17:33:30.344Z] > authorizing via signed-in user
+[debug] [2018-08-03T17:33:30.346Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/my-first-firebase-projec-61862  
+  
+ Sat Aug 04 2018 01:33:30 GMT+0800 (CST)
+[debug] [2018-08-03T17:33:31.320Z] <<< HTTP RESPONSE 200
+[debug] [2018-08-03T17:33:31.321Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/my-first-firebase-projec-61862/tokens  
+  
+ Sat Aug 04 2018 01:33:31 GMT+0800 (CST)
+[debug] [2018-08-03T17:33:32.040Z] <<< HTTP RESPONSE 200
+[debug] [2018-08-03T17:33:32.042Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/my-first-firebase-projec-61862  
+  
+ Sat Aug 04 2018 01:33:32 GMT+0800 (CST)
+[debug] [2018-08-03T17:33:33.102Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/eric/Documents/learning/FireBase'...
+[info] 
+[debug] [2018-08-03T17:33:33.104Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/836378623787/clients/_:getWebAppConfig  
+  
+ Sat Aug 04 2018 01:33:33 GMT+0800 (CST)
+[debug] [2018-08-03T17:33:33.772Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+
